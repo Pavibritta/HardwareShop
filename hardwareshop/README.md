@@ -136,14 +136,5 @@ This reduces confusion and improves user experience compared to traditional eCom
 * Blog and activity integration
 * Multi-category hardware availability (all-in-one platform)
 
-##  Future Enhancements
 
-* Online payment integration
-* AI-based smart recommendations
-* Worker hiring feature
-* Mobile application
-
-##  Conclusion
-
-This project aims to provide a complete and user-friendly hardware shopping experience by combining traditional eCommerce with smart project-based recommendations, making it unique and practical for real-world use.
 
